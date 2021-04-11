@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Rust & Golang
-- 🦄 I‘m interested in database system,distributed system and operating system.But I am not good at all of these field.
+- 🦄 I‘m interested in database system,distributed system and operating system.But I am not good at all of these fields.
 
 <!--
 **MutexCat/MutexCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
